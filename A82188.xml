@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Members of Parliament, lately dissolved by Oliver Cromwell, Esquire.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82188</idno>
+            <idno type="STC">Wing D711A</idno>
+            <idno type="STC">Thomason 669.f.19[67]</idno>
+            <idno type="STC">ESTC R212246</idno>
+            <idno type="EEBO-CITATION">99870888</idno>
+            <idno type="PROQUEST">99870888</idno>
+            <idno type="VID">163403</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82188)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163403)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f19[67])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Members of Parliament, lately dissolved by Oliver Cromwell, Esquire.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan. 27. 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:163403:1" rendition="simple:additions"/>
+            <head>A DECLARATION OF THE MEMBERS OF PARLIAMENT, Lately Diſsolved by Oliver Cromwell, Eſquire:</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough we are turned out of doors, and threatned for endeavouring to put ſome limitations upon the power of our mighty Conque<g ref="char:EOLhyphen"/>ror, OLIVER CROMVVELL, Eſquire, for the freedome, eaſe and ſettlement of our native Countrey, according to our duties, and the Truſt repoſed in us, yet we cannot acquit our ſelves to God and Man, without a proteſtation againſt the Uſurpation, Oppreſſion, Cruelty and Falſhood of the Tyrant, and an information of all the well-affected People of the three Nations, of their (too manifeſt) preſent miſeries, and future dangers, with our ſence of the duty and neceſſity that lies upon them for the prevention of the ſame.</p>
+            <p>And to paſs over his Cruelties and Oppreſſions of particular perſons, of all ſorts and factions, with his frequent tranſgreſſions of the Law, (for which more eminent perſons then himſelf have loſt their heads, of late yeeres;) VVe cannot but with grief and horror remember his unparallelled ſtriking at the root of all our Lawes and Freedomes together, by the frequent violencrs offered to the Law-givers, and the reaſons that moved him unto it.</p>
+            <p>And to begin with the long Parliament: VVe know no other reaſon why the Army was brought to Town, to drive away the major part of the Members then Sitting, but becauſe they inclined to a ſettlement of the Nation upon our excellent old Foundation of King, Lords and Commons, which would totally have excluded his Ambition, Rapine and Cruelty: For the King was reduced to the Parliaments Terms, and if he were not Fit to be truſted, we know no reaſon why one of his Sons might not; nor can all the world ſhew a better Govern<g ref="char:EOLhyphen"/>ment, then that of King, Lords and Commons, where we look upon the Lords as Mediators between the King, and Commons, to hinder the incroachments of either upon other, if the King ſhould incline to tyranny, or the Houſe of Commons to perpetuate it ſelfe, and meddle with the diſtribution of Iuſtice, in a corrupt and factious way, when they ſhould onely make Lawes and puniſh evil Miniſters; And for the MILITIA, to ſecure all this, if it be onely truſted in perſons hands of ſuch known integrity, as all the three Eſtates ſhall agree upon, VVe ſhould be as certain of a continual and ſecure injoyment of our Liberties, as God will permit us to bee of any worldly thing, who by his providence overthrowes our beſt Conceptions whenſoever hee pleaſeth to puniſh Us.</p>
+            <p>And the wiſdome of that Parliament foreſaw that we could never long be ſecure from civil wars, and the danger of invasions, in behalf of the Family of the Stewarts, conſidering their right, and the affections of the people to them, if any other family or Government were ſetled, though it were a better: And for that reaſon were they to be hunted away as enemies to his ſyniſter aimes, and the worſer and ſmaller number left, whom he hoped to have made as ſervile as he could wish them: but he found ſome Engliſh Spirits ſtill amongſt them, who would not be brought to offer one of their equals the throne he ſo wrongfully aimed at, and therefore he forced them out of the Parliament-Houſe by his Souldiers, with many inſolent reproaches, as men not worthy to be his ſlaves any longer, and ſo fell the laſt remainders of our well built Government; Laws, and Liberties, into the hands of our Infydell Grand Seigniour and his Ianizaries, after all his hypocriticall vows and proteſtations to live and dye a faithful Servant of the Parliaments.</p>
+            <p>And to make it the more manifeſt, That this Conquered Nation had utterly forfeited all its rights, he took away the Liberty of Election from the People, and impoſed a thing called a Parliament upon them that was to chooſe ſucceeding Parliaments, like it ſelfe to act thoſe things for him that he was aſhamed then to own, though now his impudence is well increaſed; but to ſay truth, was ſufficient then to take away that Fundamentall Priviledge of Election, which none of our Conquerors ever durſt think of before him.</p>
+            <p>But even thoſe beaſts of his own breed diſdained ſuch a rider, but when they could not throw him, they let him alight and turn them to graſſe; and then he had againe (by his owne confeſſion, in his ſecond Speech to this Parliament) an unlimited power to do what he pleaſed with his poore ſlaves of the three Nations; and he tels us that ſome Gentlemen whom hee names not (but we ſuppoſe he meanes his great officers, whom hee only feares) did ſrame the inſtru<g ref="char:EOLhyphen"/>ment of Government, and put limits to his power: elſe he good man could have been as wel contented to have been an unlimited Generall, as a limited Pro<g ref="char:EOLhyphen"/>tector; and this is evident by his well obſerving the limits they ſet him, and that hee ſwore to; for though they reſtored to the people the freedome of the Ele<g ref="char:EOLhyphen"/>ction of their Members which he had taken from them, yet he ſtroke out many of thoſe choſen that he thought were not like to be his vaſſailes. but when we met, he told us we were a truly free Parliament, that hee aſſumed no dominion over us, but intended to be a fellow Servant with us, and he often called God to wit<g ref="char:EOLhyphen"/>neſſe of his desire to deveſt himſelf of all power, and yet (after a ſecond purge of us) he hath deveſted us of all our power, for queſtioning his in thoſe particulars that are more intollerably burdenſome and unlimited, than ever any Conqueror impoſed upon the Nation: but we know not what the world wil think of us for <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o tedious a complyance with the unjuſteſt Uſurper, and the greateſt Murtherer and Robber, that ever England had, but we ſhall only anſwer, that we were desi<g ref="char:EOLhyphen"/>rous to give our Country ſome eaſe of their burthons ſince it was ſo difficult to reſtore them to their liberty and ſecurity: but the Tyrants heart is hardned, and out Ta<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es muſt be againe increaſed, according to his Lawleſſe will, upon pretence of the providing for the Army, which (he ſaies) we have neglected, when it is well known that the very cuſtomes and excize, without any other imposition, would pay the Army, were it not for his exceſſive avarice, and the chargeable pomp of his Family, but he will fynde another way of providing for the honeſt party in the Army, if hee be let alone: for ſynce Scotland and Ireland will not conſume them, there muſt be more honorable pretences found to ſend them to ſome part of the Indies, there to periſh <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hrough want, or the intemper<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the ayre: and if any ſurvive, they muſt there end their days in a perpetuall baniſhment, as the ſoure thouſand already ſent under Venables are like to do, wh<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> were ſo diſpoſed of before he was ſo angry with them as now he is, and they were the only people he was invective againſt, in his fyrſt ſpeech to this Parliamen<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Page 7. by the name of Levellers, though hee knew nothing of their deſigne then; the truth is, hee will do any thing for his intereſt, and that will leade him to deſtroy them by whole Sale, ſynce their Spirits are not imbaſed by his former murthring of them in parcels: there is no doubt, but he fears them the moſt of any people and it is as unqueſtionable that thoſe he feares moſt, he will hate moſt; and for the Cavaleere and Presby<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erian, let them judge of him by what they have <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from him, both in England and Scotland, the truth is, his demerits make him feare and hate all people of any principles, and therefore he impriſoneth them upon bare ſuſpitions contrary to Law, and threatneth to force out their very thoughts, to make them accuſe themſelves and other innocent people, that they may looſe theit lives by no better a rule than his High-Courts of injuſtice, and it is certaine, notwithſtanding his hypocricie that he muſt ſuppreſs all ſorts of people but Athieſts, becauſe no others will cut throates for him, if they think nor themſelves obliged to his deſtruction, which for our parts we think the whole Nation hath the moſt conſcientious Obligation to, that ever mortall men had for their Religion and Liberties; if then out oppreſſions &amp; dangers are ſtil g<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing upon us as faſt as he can invent occasions both at home and abroade to increaſe them for his intereſt, what ſhould deter us (ſince we can have nothing worſe) from joyning with our Countrey men of any principles, common intereſt, in the deſtruction of this devourer of all our ſecuritie and happineſs,</p>
+         </div>
+      </body>
+   </text>
+</TEI>
